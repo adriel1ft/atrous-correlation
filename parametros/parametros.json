@@ -1,0 +1,9 @@
+{
+  "stride": 2,
+  "dilatacao": 2,
+  "dimensoes": [3, 3],
+  "filtro": [[1, 0, -1],
+             [1, 0, -1],
+             [1, 0, -1]],
+  "ativacao": "relu"
+}

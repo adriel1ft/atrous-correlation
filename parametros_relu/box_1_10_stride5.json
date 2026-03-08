@@ -1,5 +1,5 @@
 {
-    "stride": 1,
+    "stride": 5,
     "dilatacao": 1,
     "dimensoes": [1, 10],
     "filtro": [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]],
